@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/juliezimmer/babel_webpack_starter/issues"
   },
-  "homepage": "https://github.com/juliezimmer/babel_webpack_starter#readme"
+  "homepage": "https://github.com/juliezimmer/babel_webpack_starter#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "webpack": "^4.2.0",
+    "webpack-dev-server": "^3.1.1"
+  }
 }
